@@ -5,6 +5,6 @@ public class swiftPayment {
         System.out.println("Money has been sent");
     }
     public void sendMoneyBack(String bankName, String accountNumber){
-        System.out.println("Money has been sent back");
+        System.out.println("Money has been  not sent back");
     }
 }
